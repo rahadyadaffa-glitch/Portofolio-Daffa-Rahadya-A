@@ -23,4 +23,3 @@ Selamat datang! Repositori ini berisi kumpulan laporan pengujian penetrasi (Pent
 - **SQL Injection:** Melakukan ekstraksi database penuh pada platform rekrutmen.
 
 ---
-**[Lihat Detail JagoanSiber](./JagoanSiber/)** | **[Lihat Detail Helium Challenge](./Helium%20challenge/)** | **[LinkedIn](https://www.linkedin.com/posts/daffa-rahadya-atmawiguna-25ab023b4_heliumchallenge-heliumcore-pentest-ugcPost-7451314875642904576-jW8K)**
