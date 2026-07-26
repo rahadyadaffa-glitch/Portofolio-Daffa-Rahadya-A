@@ -15,7 +15,6 @@ Selamat datang! Repositori ini berisi kumpulan laporan pengujian penetrasi (Pent
 - **Proxies:** Burp Suite Professional
 - **Scanners:** Nmap, SQLMap, Gobuster, Dirsearch
 - **Exploitation:** Metasploit, Custom Shells
-- **OS:** Fedora Linux (Hyprland Environment)
 
 ## 🏆 Highlight Temuan
 - **RCE:** Menemukan celah *Remote Code Execution* melalui bypass upload file.
